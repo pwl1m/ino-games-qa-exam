@@ -22,22 +22,3 @@ d) Maintenance.
 7. How would you handle a situation where a bug you reported is marked as 'not
 reproducible' by the development team?
 I would call the developer for a call where we could investigate together the cause of the problem, showing him how it works in my environment, in order to discover particularities in the way the scenario is executed and/or data/environment variables. If it were not possible to make a call, I would gather more evidence detailing as much as possible how I found the problem so that he could carry out a new investigation.
-
-
-1. O propósito principal da qualidade de software é garantir que todos os interessados obtenham sucesso e satisfação com seu uso, garantir que o software atenda as necessidades dos usuários com eficiencia e eficácia.
-
-2. Um caso de testes tratará de cenários específicos envolvendo uma funcionalidade ou módulo do sistema. Um plano de teste visa identificar que estratégias e ferramentas serão utilizadas, quais os pontos críticos a serem testados, escopo, cronograma, etc.
-
-3. Teste de regressão trata de garantir que as funcionalidades anteriores do sistema não tenham quebrado após implementar novas funcionalidades ou correção de defeitos.
-
-4. Nome da Funcionalidade do Sistema | Passo a passo para reproduzir o erro | Descrição do resultado obtido | Descrição do resultado esperado | Evidências do Erro (Prints, dados, logs de erro...)
-
-5. A automação de testes é importante principalmente em cenários de regressão, para garantir que as funcionalidades em operação não tenham sofrido impactos de novas incrementações. A automação é importante pois manualmente é impossível cobrir todos os cenários em um período de tempo razoável. 
-
-6. STLC
-a) Análise de requisitos, documentação, planejamento da arquitetura, protótipagem.
-b) Desenvolvimento e testes.
-c) Homologação.
-d) Manutenção.
-
-7. Eu chamaria o desenvolvedor para uma call em que pudéssemos investigar juntos a causa do problema, mostrando pra ele o funcionamento em meu ambiente, a fim de descobrirmos particularidades na forma de execução do cenário e/ou variáveis de dados/ambiente. Caso não fosse possível realizar uma call reuniria mais evidências detalhando ao máximo como encontrei o problema para que ele pudesse fazer uma nova investigação.
